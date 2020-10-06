@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CP.Api.Usuario</name>
+    </assembly>
+    <members>
+        <member name="M:CP.Api.Usuario.Controllers.UsuarioController.Get">
+            <summary>
+            Tras todos os usuários cadastrados
+            em Uma lista para serem exibidos.
+            </summary>
+            <param name="temperatura">Temperatura em Fahrenheit</param>
+            <returns>Retorna os usuários cadastrados no banco de dados</returns>
+        </member>
+    </members>
+</doc>
